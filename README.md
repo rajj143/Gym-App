@@ -1,2 +1,2 @@
 # Gym-App
-Sample Demo to Cllient
+Sample Demo to Client
